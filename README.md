@@ -1,4 +1,6 @@
-# EXPERIMENT 1A.  STUDY OF SOCKET PROGRAMMING :			
+# EXPERIMENT 1A : STUDY OF SOCKET PROGRAMMING :			
+## NAME : RUSHMITHA  R
+## REGISTRATION NUMBER : 212224040281 
 
 ## AIM: 
 To perform a study on Socket Programming
@@ -85,7 +87,9 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## OUTPUT :
-![Uploading e1.png…]()
+
+<img width="1807" height="977" alt="EE1" src="https://github.com/user-attachments/assets/0b960891-b683-4ef8-bc84-09040ccc61dc" />
+
 
 
 ## Result:
